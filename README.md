@@ -35,8 +35,11 @@
 #  Support ☘️
 <a href="https://t.me/CatXGirlNews"><img src="https://img.shields.io/badge/Join-CatXGirl%20News-red.svg?logo=Telegram"></a>
 <a href="t.me/CatXGirlSupport"><img src="https://img.shields.io/badge/Join-CatXGirl%20Support-blue.svg?logo=Telegram"></a>
-<a href="https://t.me/SLBotZone"><img src="https://img.shields.io/badge/Join-SlBotZone%20Support-green.svg?logo=Telegram"></a>
+<a href="https://t.me/SLBotZone"><img src="https://img.shields.io/badge/Join-SlBotZone-green.svg?logo=Telegram"></a> <br>
+<a href="https://t.me/ImRishmika"><img src="https://img.shields.io/badge/Devoloper-green.svg?logo=Telegram"></a>
 
 > 🍁 Please join our support and updates channel for discuss bugs and deploy errors
+>  Devoloper [RishBroProMax](t.me/ImRishmika)
+
 
 
