@@ -25,4 +25,18 @@
 - Song Downloading
 - Video Downloading
 - Channel Music And Video Playing
+        
+# 🏃‍ Easy Deploy 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RishBropromax/Cat-X-Girl-Music.git)
+        
+> 🌷 Sorry Bro My Bot is Not Create On Telegram.. I Think Make This Bot
+        
+#  Support ☘️
+<a href="https://t.me/CatXGirlNews"><img src="https://img.shields.io/badge/Join-CatXGirl%20News-red.svg?logo=Telegram"></a>
+<a href="t.me/CatXGirlSupport"><img src="https://img.shields.io/badge/Join-CatXGirl%20Support-blue.svg?logo=Telegram"></a>
+<a href="https://t.me/SLBotZone"><img src="https://img.shields.io/badge/Join-SlBotZone%20Support-green.svg?logo=Telegram"></a>
+
+> 🍁 Please join our support and updates channel for discuss bugs and deploy errors
+
 
