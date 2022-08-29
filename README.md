@@ -29,6 +29,8 @@
 # 🏃‍ Easy Deploy 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RishBropromax/Cat-X-Girl-Music.git)
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Rishbro/CatXGirl-Music-String-Session?v=1)
         
 > 🌷 Sorry Bro My Bot is Not Create On Telegram.. I Think Make This Bot
         
