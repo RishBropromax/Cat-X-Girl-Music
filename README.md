@@ -4,7 +4,7 @@
  <h2 align="center"> 
     ʜᴇʏ ᴛʜɪs ɪ m ᴄᴀᴛ ɢɪʀʟ Music Bot. ᴛᴇʟᴇɢʀᴀᴍ Music Player ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ
 </h2>
-<p align="center"><a href="https://github.com/RishBropromax/Cat-X-Girl-Music"><img src="https://telegra.ph/file/49354a8e374262342e788.jpg"width="500" height="700"</a></p>
+<p align="center"><a href="https://github.com/RishBropromax/Cat-X-Girl-Music"><img src="https://telegra.ph/file/d60db1a74a9d4274ea0ad.jpg"width="500" height="700"</a></p>
  
 <p align="center">
     <a href="https://github.com/RishBropromax/Cat-X-Girl-Music"> <img src="https://img.shields.io/github/repo-size/RishBropromax/Cat-X-Girl-Music?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
