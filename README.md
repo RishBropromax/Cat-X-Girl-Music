@@ -14,7 +14,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
->Cat X Girl Is Powerfull And Fast Bot In Telegram... 🌹 Thanks to everyone who Star 🌟, Fork 🍂 Semmy Group Manager's repository 🔥, That is the greatest pleasure have... <br>
+>Cat X Girl Is Powerfull And Fast Bot In Telegram... 🌹 Thanks to everyone who Star 🌟, Fork 🍂 Cat X Girl Muisc repository 🔥, That is the greatest pleasure have... <br>
 
 # ◇───── BOT Features ─────◇
 
