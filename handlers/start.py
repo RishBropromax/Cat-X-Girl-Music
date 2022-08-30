@@ -36,7 +36,7 @@ async def start_(client: Client, message: Message):
                         "💔 ᴏᴡɴᴇʀ 💔", url=f"https://t.me/{OWER_USERNAME}"
                     ),
                     InlineKeyboardButton(
-                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GROUP}"
                     )
                 ],[
                     InlineKeyboardButton(
@@ -47,7 +47,7 @@ async def start_(client: Client, message: Message):
                         "💕 Channel 💕", url=f"t.me/CatXGirlNews"
                     ),
                   InlineKeyboardButton(
-                        "🤯 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ 🤯", url="https://github.com/RishBropromax/Cat-X-Girl-Music"
+                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/RishBropromax/Cat-X-Girl-Music"
                     )]
             ]
        ),
