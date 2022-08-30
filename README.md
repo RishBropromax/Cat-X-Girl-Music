@@ -41,6 +41,7 @@
 <a href="https://t.me/ImRishmika"><img src="https://img.shields.io/badge/Devoloper-green.svg?logo=Telegram"></a>
 
 > 🍁 Please join our support and updates channel for discuss bugs and deploy errors
+        <br>
 >  Devoloper [RishBroProMax](t.me/ImRishmika)
 
 
