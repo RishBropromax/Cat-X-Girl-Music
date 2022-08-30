@@ -64,6 +64,30 @@
       "description": "Max audio duration limit for downloads (minutes).",
       "required": false,
       "value": "120"
-    }
+    },
+    "GIRL_OR_BOY": {
+      "description": "Girl Or Boy",
+      "required": false,
+      "value": "Boy"
+    },
+    "OWER_USERNAME":{
+      "description": "Ower Username Without @"
+      "required": false,
+      "value": "@ImRishmika"
+    },
+    "ASSISTANT_USERNAME":{
+      "description": "Assistant Username",
+      "required": false,
+      "value": "@CatXGirl_Assistant"
+    },
+    "UPDATE_CHANNEL":{
+      "description": "Updateds Channel Id Or Username (t.me/CatXGirlNews)",
+      "required": false,
+      "value": "@atXGirlNews"
+    },
+    "VIDEO_PLAYING":{
+      "description": "Yes or No ( If you say yes, the dyons in your heroku account will expire in 5 days or less. If you say no, you can keep this bot from heroku dyons for 20 to 25 days. ) ",
+      "required": false,
+      "value": "No"
   }
 }
