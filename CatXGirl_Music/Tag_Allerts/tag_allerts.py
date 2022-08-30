@@ -8,8 +8,6 @@ from CatXGirl_Music.Tag_Allerts.commands import command
 
 ## Copyright By SZ Rose Bot. 
 
-from CatXGirl_Music.Tag_Allerts import taggeddb
-
 from button import Tagalert
 
 from CatXGirl_Music.Tag_Allerts.filter_groups import tagallert
